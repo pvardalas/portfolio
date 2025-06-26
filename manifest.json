@@ -1,0 +1,11 @@
+{
+    "name": "Vardalas Panagiotis | Portfolio",
+    "short_name": "Vardalas",
+    "description": "I’m Panagiotis Vardalas, a Software Engineer specializing in Web Dev, Security & cloud solutions. Explore my portfolio, discover my projects, and let’s build something great together.",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#0000000",
+    "theme_color": "#00b7ff4d"
+  }
+  
